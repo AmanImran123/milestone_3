@@ -61,7 +61,7 @@ export default async function Home() {
                     <AvatarImage src="https://avatars.githubusercontent.com/u/159767100?v=4" alt="@shadcn" />
                     <AvatarFallback>CN</AvatarFallback>
                     </Avatar>
-                    <p className="p-2 text-gray-600 dark:text-gray-300"> <span className="font-semibold text-black dark:text-white">By:</span> Muhammad Arsalan </p>
+                    <p className="p-2 text-gray-600 dark:text-gray-300"> <span className="font-semibold text-black dark:text-white">By:</span> Muhammad Aman </p>
                 </div>
               </CardContent>
 
