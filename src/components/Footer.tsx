@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-screen-xl mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="lg:flex lg:items-center">
-          <p className="text-white text-5xl font-bold">Arsalan<span className="text-blue-600 text-5xl font-bold">Blogs</span></p>
+          <p className="text-white text-5xl font-bold">Aman<span className="text-blue-600 text-5xl font-bold">Blogs</span></p>
           </div>
 
           <div className="lg:flex lg:items-center">
