@@ -8,7 +8,7 @@ export default function Header() {
 
         {/* Logo */}
         <div className="flex items-center gap-4 max-w-screen-xl mx-auto w-full">
-          <p className="text-White text-xl md:text-5xl font-bold">Arsalan<span className="text-blue-600 text-xl md:text-5xl font-bold">Blogs</span></p>
+          <p className="text-White text-xl md:text-5xl font-bold">Aman<span className="text-blue-600 text-xl md:text-5xl font-bold">Blogs</span></p>
 
           <div
             id="collapseMenu"
